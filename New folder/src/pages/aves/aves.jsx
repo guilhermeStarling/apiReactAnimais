@@ -8,7 +8,7 @@ function Aves() {
 
     useEffect(() => {
         const buscarAves = async () => {
-            const response = await fetch('http://raw.githubusercontent.com/lopesofia20/ApiAnimais/main/API.json')
+            const response = await fetch('https://raw.githubusercontent.com/lopesofia20/API/main/json.json')
             const data = await response.json()
             setAves(data)
         }
