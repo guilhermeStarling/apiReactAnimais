@@ -1,0 +1,167 @@
+[
+    {
+        "nome": "gato",
+        "animais": [
+            {
+                "porte": "Pequeno",
+                "especie": "Felis catus",
+                "distribuicao_geografica": "Mundial"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Felis catus",
+                "distribuicao_geografica": "Mundial"
+            },
+            {
+                "porte": "Pequeno",
+                "especie": "Felis catus",
+                "distribuicao_geografica": "América do Norte"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Felis lybica",
+                "distribuicao_geografica": "África"
+            },
+            {
+                "porte": "Pequeno",
+                "especie": "Felis catus",
+                "distribuicao_geografica": "Europa"
+            },
+            {
+                "porte": "Grande",
+                "especie": "Panthera leo",
+                "distribuicao_geografica": "África"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Felis catus",
+                "distribuicao_geografica": "América do Sul"
+            },
+            {
+                "porte": "Pequeno",
+                "especie": "Felis silvestris",
+                "distribuicao_geografica": "Europa"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Felis margarita",
+                "distribuicao_geografica": "Ásia Central"
+            },
+            {
+                "porte": "Grande",
+                "especie": "Panthera tigris",
+                "distribuicao_geografica": "Ásia"
+            }
+        ]
+    },
+    {
+        "nome": "cachorro",
+        "animais": [
+            {
+                "porte": "Pequeno",
+                "especie": "Chihuahua",
+                "distribuicao_geografica": "México"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Bulldog Inglês",
+                "distribuicao_geografica": "Reino Unido"
+            },
+            {
+                "porte": "Grande",
+                "especie": "São Bernardo",
+                "distribuicao_geografica": "Suíça"
+            },
+            {
+                "porte": "Pequeno",
+                "especie": "Poodle",
+                "distribuicao_geografica": "França"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Golden Retriever",
+                "distribuicao_geografica": "Reino Unido"
+            },
+            {
+                "porte": "Grande",
+                "especie": "Dogue Alemão",
+                "distribuicao_geografica": "Alemanha"
+            },
+            {
+                "porte": "Pequeno",
+                "especie": "Pomerânia",
+                "distribuicao_geografica": "Polônia"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Labrador Retriever",
+                "distribuicao_geografica": "Canadá"
+            },
+            {
+                "porte": "Grande",
+                "especie": "Husky Siberiano",
+                "distribuicao_geografica": "Sibéria"
+            },
+            {
+                "porte": "Pequeno",
+                "especie": "Shih Tzu",
+                "distribuicao_geografica": "Tibet"
+            }
+        ]
+    },
+    {
+        "nome": "aves",
+        "animais": [
+            {
+                "porte": "Pequeno",
+                "especie": "Canário",
+                "distribuicao_geografica": "América do Sul"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Pombo",
+                "distribuicao_geografica": "Mundial"
+            },
+            {
+                "porte": "Pequeno",
+                "especie": "Andorinha",
+                "distribuicao_geografica": "Mundial, exceto regiões polares"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Pica-pau",
+                "distribuicao_geografica": "América do Norte, América Central e América do Sul"
+            },
+            {
+                "porte": "Grande",
+                "especie": "Águia-pescadora",
+                "distribuicao_geografica": "América do Norte, Europa, Ásia, África e Austrália"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Falcão",
+                "distribuicao_geografica": "América do Norte, América Central, América do Sul, Europa, Ásia e África"
+            },
+            {
+                "porte": "Pequeno",
+                "especie": "Beija-flor",
+                "distribuicao_geografica": "Américas Central e do Sul"
+            },
+            {
+                "porte": "Grande",
+                "especie": "Avestruz",
+                "distribuicao_geografica": "África e partes da Ásia"
+            },
+            {
+                "porte": "Médio",
+                "especie": "Gaivota",
+                "distribuicao_geografica": "Mundial, geralmente em áreas costeiras"
+            },
+            {
+                "porte": "Pequeno",
+                "especie": "Coruja",
+                "distribuicao_geografica": "Mundial, exceto regiões polares e desertos extremos"
+            }
+        ]
+    }
+]
